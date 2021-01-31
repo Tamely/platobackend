@@ -24,7 +24,7 @@
 			<button type="button">Download</button>
 		</div>
 		<div class="side-bar">
-			<img src="https://tamely.tk/Images/menu.png" class="menu">
+			<img src="https://tamely.tk/Images/menu.png" class="menu" onclick=closeNav()>
 			
 			<div class="social-links">
 				<img src="https://tamely.tk/Images/info.png">
@@ -44,3 +44,11 @@
 <body>
 </body>
 </html>
+
+function openNav() {
+	document.getElementById("side-bar").style.width = "50px";
+  }
+  
+  function closeNav() {
+	document.getElementById("side-bar").style.width = "0px";
+  }
