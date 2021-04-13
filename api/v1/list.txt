@@ -205,6 +205,8 @@
 - Polarity (863)
 - Joltara (864)
 - Victoria Saint (869)
+- Yuki (1050)
+- Dutch (1051)
 - Diamond Hanz (1060)
 - Aloy (1062)
 - Rebirth Harley Quinn (1063)
