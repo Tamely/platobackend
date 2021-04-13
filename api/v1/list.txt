@@ -205,5 +205,6 @@
 - Polarity (863)
 - Joltara (864)
 - Victoria Saint (869)
+- Aloy (1062)
 - Eco (1068)
 - Grimey (1069)
