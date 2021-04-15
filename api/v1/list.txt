@@ -87,6 +87,7 @@
 - Moonwalker (81)
 - Rust Lord (82)
 - Elite Agent (83)
+- Sub Commander (84)
 - Rogue Agent (90)
 - Rex (93)
 - Raven (102)
