@@ -1,0 +1,8 @@
+[{
+    "serviceInstanceId": "fortnite",
+    "status": "UP",
+    "message": "JuicyFN",
+    "maintenanceUri": null,
+    "allowedActions": ["PLAY", "DOWNLOAD"],
+    "banned": false
+}]
