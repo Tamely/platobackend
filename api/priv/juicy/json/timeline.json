@@ -13,7 +13,7 @@
                         "eventType": "EventFlag.LobbySeason15",
                         "activeUntil": "9999-12-31T23:59:59.999Z",
                         "activeSince": "2019-12-31T23:59:59.999Z"
-                    },
+                    }
                 ],
                 "state": {
                     "activeStorefronts": [],
