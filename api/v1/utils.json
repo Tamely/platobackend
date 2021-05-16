@@ -1,0 +1,13 @@
+{
+    "Database":{
+       "Files":{
+          "femalepak":"pakchunk10_s4-WindowsClient",
+          "malepak":"pakchunk10_s4-WindowsClient",
+          "assetpak":"pakchunk10_s4-WindowsClient"
+       },
+       "Args":{
+          "ueversion":"4.27",
+          "extraargs":"-sounds -save "
+       }
+    }
+ }
