@@ -1,0 +1,41 @@
+{
+    "Content":
+    {
+        "First":
+        {
+            "Text": "https://www.epicgames.com/fortnite/en-US/news/fortnitemares-update-1-8-patch-notes?sessionInvalidated=true",
+            "Large": "https://media.discordapp.net/attachments/754879989614379042/845666561385299968/FortniteMares.png",
+            "Small": ""
+        },
+        "Second":
+        {
+            "Text": "Update",
+            "Large": "",
+            "Small": ""
+        },
+        "Third":
+        {
+            "Text": "Update",
+            "Large": "",
+            "Small": ""
+        },
+        "Fourth":
+        {
+            "Text": "Update",
+            "Large": "",
+            "Small": ""
+        },
+        "Fifth":
+        {
+            "Text": "Update",
+            "Large": "",
+            "Small": ""
+        },
+        "Sixth":
+        {
+            "Text": "Update",
+            "Large": "",
+            "Small": ""
+        }
+    }
+}
